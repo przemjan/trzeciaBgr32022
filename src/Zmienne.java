@@ -35,5 +35,16 @@ public class Zmienne {
         boolean isSlonce = true;
 
         // https://github.com/przemjan/trzeciaBgr32022
+
+
+        //windows r
+        // \\ubuckp
+        // student student123
+        // public
+        // janisz
+        // uporządkuj
+
+        // 1-6
+
     }
 }
