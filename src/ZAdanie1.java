@@ -1,2 +1,0 @@
-public class ZAdanie1 {
-}
