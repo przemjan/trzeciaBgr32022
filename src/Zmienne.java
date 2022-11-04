@@ -32,6 +32,8 @@ public class Zmienne {
         char znak  = '#';
 
 
-        boolean isSlonce = true; 
+        boolean isSlonce = true;
+
+        // https://github.com/przemjan/trzeciaBgr32022
     }
 }
