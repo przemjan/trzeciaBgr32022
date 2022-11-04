@@ -46,5 +46,14 @@ public class Zmienne {
 
         // 1-6
 
+        // Zmodyfikuj zadnie 6 tak, aby użytkownik miał
+        // możliwość podania pojedynczych wymiarów każdego pokoju.
+        // np.:
+        // podaj długość pokoju nr1:
+        // podaj szerokość pokoju nr1:
+        // podaj długość pokoju nr2:
+        // podaj szerokość pokoju nr2:
+
+
     }
 }
