@@ -1,4 +1,4 @@
-package printFormat;
+package dodatki;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

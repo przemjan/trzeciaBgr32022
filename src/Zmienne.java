@@ -54,6 +54,9 @@ public class Zmienne {
         // podaj długość pokoju nr2:
         // podaj szerokość pokoju nr2:
 
+        // Tworzenie i testowanie programów i aplikacji.
+
+
 
     }
 }
