@@ -23,7 +23,8 @@ public class Srednia1 {
 
         }
 
-        if (srednia == 1){
+
+        if (srednia == 1) {
             System.out.println("Niedobrze! " + srednia);
             System.out.println("Musisz się poprawić!");
         }

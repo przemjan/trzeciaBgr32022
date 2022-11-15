@@ -1,5 +1,6 @@
 package Decyzje;
 
+
 public class BoolIf {
     public static void main(String[] args) {
         boolean sun = true;
